@@ -1,5 +1,5 @@
 # Site
-repository: p15bala/cv-1
+repository: p15bala/cv
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -60,8 +60,7 @@ content:
       - Gaming
       - Video Editing
       
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      
 
 # Footer
 footer_show_references: true
