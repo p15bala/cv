@@ -32,8 +32,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title:Bachelor Thesis 
-        
+        title: Bachelor Thesis 
         quote: >
           This is what I'm currently working on for my thesis.
         description: | # this will include new lines to allow paragraphs
