@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Daniel Balampanidis
+name: Daniil Balampanidis
 title: Student at Ionian University
 email: p15bala@ionio.gr
 website: https://github.com/p15bala/cv-1
@@ -36,7 +36,7 @@ content:
         quote: >
           This is what I'm currently working on for my thesis.
         description: | # this will include new lines to allow paragraphs
-          I'm developing an archaeological Database with Geographical Information and an online user interface. I have learned many skills through this,escpecially on Databases and web development.
+          I'm developing an Archaeological Database with Geographical Information and an online user interface. I have learned many skills through this,escpecially on Databases and web development.
 
 
   - title: Education # Title for the section
