@@ -36,7 +36,8 @@ content:
         quote: >
           This is what I'm currently working on for my thesis.
         description: | # this will include new lines to allow paragraphs
-          I'm developing an Archaeological Database with Geographical Information and an online user interface. I have learned many skills through this project,especially on Databases and web development.
+          I’m developing an Archaeological Database with Geographical Information and an online user interface. I have learned many skills through this project,especially on Databases,
+          Geographical Information Systems and web development.
 
 
   - title: Education # Title for the section
