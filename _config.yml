@@ -20,8 +20,8 @@ linkedin_username: danielbalampanidis
 
 # Additional Links
 additional_links:
-- title: pdf
-  icon: 
+- title: pdf 
+  icon: pdf
   url: https://github.com/p15bala/cv/raw/gh-pages/pdf/cv.pdf
 
 
