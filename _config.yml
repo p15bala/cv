@@ -18,6 +18,12 @@ darkmode: true
 github_username:  p15bala
 linkedin_username: danielbalampanidis
 
+# Additional Links
+additional_links:
+- title: pdf
+  icon: 
+  url: https://github.com/p15bala/cv/raw/gh-pages/pdf/cv.pdf
+
 
 # About Section
 # about_title: About Me
